@@ -1,0 +1,54 @@
+
+body{
+background-color:#F6CE3B;
+}
+
+.all-map{
+ background-color:#F6CE3B;
+}
+
+#view{
+    width: 1000px;
+    height: 250px;
+}
+
+#myMap{
+    width: 900px;
+    height: 700px;
+    margin: auto;
+    border: solid;
+    border-width:7px;
+    border-color:#6a5acd;
+}
+
+.title{
+    font-family: 'Klee One', cursive;
+    font-size: 25px;
+    text-align: center;
+    color:black;
+    border: solid;
+    width: 50%;
+    margin: auto;
+    background: wheat;
+    margin-top: 5%;
+    border-width: 7px;
+    border-color:#6a5acd;
+}
+
+
+.heart{
+    width: 60px;
+    height: 60px;
+    margin: 0 0 0 140px;
+}
+
+.monster1{
+    width: 50px;
+    height: 50px;
+}
+
+.monster2{
+    width: 50px;
+    height: 50px;
+    margin: 0 0 0 980px;
+}
